@@ -16,3 +16,13 @@ brown_hair = true
 rides_bike = true
 fear_of_heights = true
 broncos_fan = false
+
+#Variable reassignment
+name = "Charles"
+favorite_team = "Avalanche"
+city = "Arvada"
+
+#statments
+puts name
+puts favorite_team
+puts fear_of_heights

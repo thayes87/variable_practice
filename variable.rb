@@ -1,5 +1,8 @@
 #varibales
-1. string
-1. integaer
-1. float
-1. boolean
+#  string
+# integaer
+# float
+# boolean
+name = "thomas"
+favorite_team = "vikings"
+city = "salida"
